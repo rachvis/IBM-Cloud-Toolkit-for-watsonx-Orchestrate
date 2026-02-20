@@ -1,0 +1,10 @@
+# Never commit credentials or generated files
+.env
+venv/
+__pycache__/
+*.pyc
+*.pyo
+.DS_Store
+config/ibm_cloud_toolkit_openapi.json
+config/tool_manifest.json
+config/tools_summary.txt

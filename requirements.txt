@@ -1,0 +1,9 @@
+# IBM Cloud Toolkit for watsonx Orchestrate on IBM Cloud — Python Dependencies
+ibm-cloud-sdk-core>=3.18.0
+ibm-platform-services>=0.55.0
+requests>=2.31.0
+python-dotenv>=1.0.0
+pydantic>=2.0.0
+httpx>=0.25.0
+rich>=13.0.0
+typer>=0.9.0
